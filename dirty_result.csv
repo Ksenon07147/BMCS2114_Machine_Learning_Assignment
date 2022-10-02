@@ -1,0 +1,7 @@
+,Model Name,Average Accuracy,Weighted Precision,Weighted Recall,Weighted F1-score,Cross-Val Mean,Cross-Val SD
+0,IsolationForest,0.6098,0.8128,0.6098,0.6968,0.6104,0.0254
+1,EllipticEnvelope,0.6669,0.9774,0.6669,0.7928,0.6669,0.0175
+2,LocalOutlierFactor,0.6674,0.9777,0.6674,0.7933,,
+3,OneClassSVM,0.6669,0.9763,0.6669,0.7924,0.664,0.0188
+4,K-Means,0.5144,0.5145,0.5144,0.499,0.5117,0.0068
+5,Neural Network,0.3247,0.724,0.8336,0.6708,0.0262,
